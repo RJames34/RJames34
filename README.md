@@ -1,7 +1,4 @@
-## Hi there 👋
 
-
- 
 ## 🧡Hello! Welcome to my GitHub Profile, I'm Rianna 🧡
     
 I'm a Computer Science major at Boston University with a passion for Machine Learning, Artificial Intelligence, and Web Development. After completing a summer course at Cornell on the foundations of machine learning, I became even more interested in how ML and AI are evolving into everyday tools and shaping the future of technology.
@@ -11,7 +8,8 @@ Web development—especially front-end—combines two things I love: art and cod
 If you’re ever interested in connecting on these topics, feel free to reach out!
 
 ## Featured Project: Age prediction Model 💘
-<a> <a/>
+<a href="https://github.com/RJames34/My-Breakthrough-Tech-Portfolio/blob/89f67df628bdab42bca8795cfffcbd9a537227e0/DefineAndSolveMLProblem%20(4).ipynb">Age Prediction Model</a>
+
 Check out the project I did concluding the coruse I took during the summer of 2026   
 Tools: Python, scikit-learn, numpy, pandas   
 What I Did: prepared the UCI Adult dataset and trained a model to predict an individual’s age based on their demographic and economic features.   
@@ -21,6 +19,12 @@ Programming Languages: Python, Java, HTML, CSS, C, Assembly, and JavaScript (bas
 Libraries & Frameworks: scikit-learn, Pandas, NumPy, matplotlib, Sympy    
 Development Tools: Jupyter Notebooks, Google Colab    
 Version Control: GitHub
+
+## Connect with me
+
+Linkedin: <a href="https://www.linkedin.com/in/james-rianna/">Rianna James</a>
+
+Email: rjames34@bu.edu</a>
 
 
 <!--
