@@ -1,30 +1,49 @@
 
-## 🧡Hello! Welcome to my GitHub Profile, I'm Rianna 🧡
-    
-I'm a Computer Science major at Boston University with a passion for Machine Learning, Artificial Intelligence, and Web Development. After completing a summer course at Cornell on the foundations of machine learning, I became even more interested in how ML and AI are evolving into everyday tools and shaping the future of technology.
+## Hello! Welcome to my GitHub Profile, I'm Rianna
 
-Web development—especially front-end—combines two things I love: art and coding! I'm enthusiastic about collaboration, learning new technologies, and continuously improving my skills through hands-on projects and internships.
+## ABOUT ME 
+
+I'm a junior majoring in Computer Science at Boston University, with a passion for Machine Learning, Artificial Intelligence, and Web Development. After completing a summer course at Cornell on the foundations of machine learning, I became even more interested in how ML and AI are evolving into everyday tools and shaping the future of technology. Web development, especially front-end development, combines two things I love: design and coding. I love collaboration, learning new technologies, and continuously improving my skills through hands-on projects and internships. I'm looking forward to working on projects related to Machine learning/Artificial intelligence!
+
+**Machine learning Foundations portfolio:**  < a href = " https://github.com/RJames34/Machine-learning-portfolio-Cornell"> Machine learning portfolio </a>
 
 If you’re ever interested in connecting on these topics, feel free to reach out!
 
-## Featured Project: Age prediction Model 💘
-<a href="https://github.com/RJames34/My-Breakthrough-Tech-Portfolio/blob/89f67df628bdab42bca8795cfffcbd9a537227e0/DefineAndSolveMLProblem%20(4).ipynb">Age Prediction Model</a>
+## PROJECTS 
+**Speech Background Noise Suppression with Deep Learning - Collaboration with MathWorks (In progress)** 
+- Research deep learning approaches for noise suppression, focusing on RNN and CNN architectures to improve audio clarity for hearing-impaired individuals. 
+- Train models on the Microsoft Deep Noise Suppression dataset using MATLAB, PyTorch, and NumPy to preprocess, develop models, and evaluate performance. 
+- **Tech Stack:** Python, MATLAB, Pytorch
+**Link:** Link to be added when project is completed
 
-Check out the project I did concluding the coruse I took during the summer of 2026   
-Tools: Python, scikit-learn, numpy, pandas   
-What I Did: prepared the UCI Adult dataset and trained a model to predict an individual’s age based on their demographic and economic features.   
+ **Age Prediction Mode (featured project)** 
+- Trained a machine learning model on the UCI Adult dataset to predict an individual’s age from demographic and economic features.
+- **Tech Stack:** Python, scikit-learn, NumPy, Pandas
+- **Key Features:**
+- Data preprocessing and feature engineering on UCI Adult dataset
+- Built and trained predictive ML model
+**Link:** <a href="https://github.com/RJames34/My-Breakthrough-Tech-Portfolio/blob/89f67df628bdab42bca8795cfffcbd9a537227e0/DefineAndSolveMLProblem%20(4).ipynb">Age Prediction Model</a> 
 
-## Tech Stack💻
+**GalacticVote (Boston University Spark Mini Hackathon – Nov 2024)**
+- Created a voter registration website to improve user experience and simplify registration.
+**Tech Stack:** HTML, CSS
+**Key Features:**
+- Styled candidate information page for clarity and usability
+- Enhanced overall user experience and registration flow
+**Link:** <a href="https://github.com/RJames34/GalacticVote">GalacticVote</a> 
+
+
+## TECH STACK
 Programming Languages: Python, Java, HTML, CSS, C, Assembly, and JavaScript (basic)    
 Libraries & Frameworks: scikit-learn, Pandas, NumPy, matplotlib, Sympy    
 Development Tools: Jupyter Notebooks, Google Colab    
 Version Control: GitHub
 
-## Connect with me
+## CONNECT WITH ME
 
-Linkedin: <a href="https://www.linkedin.com/in/james-rianna/">Rianna James</a>
+**Linkedin:** <a href="https://www.linkedin.com/in/james-rianna/">Rianna James</a>
 
-Email: rjames34@bu.edu</a>
+**Email:** rjames34@bu.edu</a>
 
 
 <!--
