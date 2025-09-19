@@ -14,13 +14,13 @@ If you’re ever interested in connecting on these topics, feel free to reach ou
 **Speech Background Noise Suppression with Deep Learning - Collaboration with MathWorks (In progress)** 
 - Research deep learning approaches for noise suppression, focusing on RNN and CNN architectures to improve audio clarity for hearing-impaired individuals. 
 - Train models on the Microsoft Deep Noise Suppression dataset using MATLAB, PyTorch, and NumPy to preprocess, develop models, and evaluate performance. 
-- **Tech Stack:** Python, MATLAB, Pytorch
+**Tech Stack:** Python, MATLAB, Pytorch     
 **Link:** Link to be added when project is completed
 
  **Age Prediction Mode (featured project)** 
 - Trained a machine learning model on the UCI Adult dataset to predict an individual’s age from demographic and economic features.
-- **Tech Stack:** Python, scikit-learn, NumPy, Pandas
-- **Key Features:**
+**Tech Stack:** Python, scikit-learn, NumPy, Pandas
+**Key Features:**
 - Data preprocessing and feature engineering on UCI Adult dataset
 - Built and trained predictive ML model
 **Link:** <a href="https://github.com/RJames34/My-Breakthrough-Tech-Portfolio/blob/89f67df628bdab42bca8795cfffcbd9a537227e0/DefineAndSolveMLProblem%20(4).ipynb">Age Prediction Model</a> 
