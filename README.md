@@ -1,11 +1,12 @@
 
-## Hello! Welcome to my GitHub Profile, I'm Rianna
+<h1> Hello! I'm Rianna James </h1>
+<br>
 
 ## ABOUT ME 
 
 I'm a junior majoring in Computer Science at Boston University, with a passion for Machine Learning, Artificial Intelligence, and Web Development. After completing a summer course at Cornell on the foundations of machine learning, I became even more interested in how ML and AI are evolving into everyday tools and shaping the future of technology. Web development, especially front-end development, combines two things I love: design and coding. I love collaboration, learning new technologies, and continuously improving my skills through hands-on projects and internships. I'm looking forward to working on projects related to Machine learning/Artificial intelligence!
 
-**Machine learning Foundations portfolio:**  < a href = " https://github.com/RJames34/Machine-learning-portfolio-Cornell"> Machine learning portfolio </a>
+**Machine learning Foundations portfolio:**  <a href = "https://github.com/RJames34/Machine-learning-portfolio-Cornell"> Machine learning portfolio </a>
 
 If you’re ever interested in connecting on these topics, feel free to reach out!
 
