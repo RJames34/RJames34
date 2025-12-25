@@ -43,7 +43,7 @@ If you’re ever interested in connecting on these topics, feel free to reach ou
 - Data preprocessing and feature engineering on Boston Building Violations and Student Addressess 
 - Recorded areas with the most violations and how many students populated said area
  
-**Link to github repo:** <a href="https://github.com/irisRen04/cs506-off_campus_housing-Ren-James">Off Campus Housing Analysis</a>
+**Link to github repo:** <a href="https://github.com/irisRen04/cs506-off_campus_housing-Ren-James">Off Campus Housing Analysis</a>   
 **Link to Off Campus Housing Tool:** <a href="https://irisren04.github.io/cs506-off_campus_housing-Ren-James/index.html">Off Campus Housing Analysis Tool</a>
 
 <br>
