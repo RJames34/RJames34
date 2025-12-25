@@ -15,9 +15,9 @@ If you’re ever interested in connecting on these topics, feel free to reach ou
 - Research deep learning approaches for noise suppression, focusing on RNN and CNN architectures to improve audio clarity for hearing-impaired individuals.   
 - Train models on the Microsoft Deep Noise Suppression dataset using MATLAB, PyTorch, and NumPy to preprocess, develop models, and evaluate performance.
    
-**Tech Stack:** Python, MATLAB, Pytorch
+**Tech Stack:** Python and MATLAB
    
-**Link:** Link to be added when project is completed
+**Link:** <a href = "https://github.com/BTTAI-9/Team-9"> Denoising Speech With Mathworks </a>
 
 <br>
 
@@ -34,6 +34,20 @@ If you’re ever interested in connecting on these topics, feel free to reach ou
 
 <br>
 
+ **Off Campus Housing Analysis and Tool(featured project)** 
+- Trained a machine learning model on the UCI Adult dataset to predict an individual’s age from demographic and economic features.
+ 
+**Tech Stack:** Python, scikit-learn,Pandas, Html, and CSS
+  
+**Key Features:**  
+- Data preprocessing and feature engineering on Boston Building Violations and Student Addressess 
+- Recorded areas with the most violations and how many students populated said area
+ 
+**Link to github repo:** <a href="https://github.com/irisRen04/cs506-off_campus_housing-Ren-James">Off Campus Housing Analysis</a>
+**Link to Off Campus Housing Tool:** <a href="https://irisren04.github.io/cs506-off_campus_housing-Ren-James/index.html">Off Campus Housing Analysis Tool</a>
+
+<br>
+
 **GalacticVote (Boston University Spark Mini Hackathon – Nov 2024)**
 - Created a voter registration website to improve user experience and simplify registration.
     
@@ -47,7 +61,7 @@ If you’re ever interested in connecting on these topics, feel free to reach ou
 
 
 ## TECH STACK
-Programming Languages: Python, Java, HTML, CSS, C, Assembly, and JavaScript (basic)    
+Programming Languages: Python, Java, HTML, CSS, C, and Assembly   
 Libraries & Frameworks: scikit-learn, Pandas, NumPy, matplotlib, Sympy    
 Development Tools: Jupyter Notebooks, Google Colab    
 Version Control: GitHub
