@@ -4,14 +4,14 @@
 
 ## ABOUT ME 
 
-I'm a junior majoring in Computer Science at Boston University, with a passion for Machine Learning, Artificial Intelligence, and Web Development. After completing a summer course at Cornell on the foundations of machine learning, I became even more interested in how ML and AI are evolving into everyday tools and shaping the future of technology. Web development, especially front-end development, combines two things I love: design and coding. I love collaboration, learning new technologies, and continuously improving my skills through hands-on projects and internships. I'm looking forward to working on projects related to Machine learning/Artificial intelligence!
+I'm a senior majoring in Computer Science at Boston University, with an interest in Machine Learning, Artificial Intelligence, and full-stack Development. After completing a summer course at Cornell on the foundations of machine learning, I became even more interested in how ML and AI are evolving into everyday tools and shaping the future of technology while being utilized to support everyday people's lives. Full-stack Development combines two things I like: design and coding. I love collaboration, learning new technologies, and improving my skills through hands-on projects. I'm looking forward to working on more projects related to Machine learning/Artificial intelligence! If you’re ever interested in connecting on these topics, feel free to reach out!
 
 **Machine learning Foundations portfolio:**  <a href = "https://github.com/RJames34/Machine-learning-portfolio-Cornell"> Machine learning portfolio </a>
 
 If you’re ever interested in connecting on these topics, feel free to reach out!
 
 ## PROJECTS 
-**Speech Background Noise Suppression with Deep Learning - Collaboration with MathWorks (In progress)** 
+**Speech Background Noise Suppression with Deep Learning - Collaboration with MathWorks (featured project)** 
 - Research deep learning approaches for noise suppression, focusing on RNN and CNN architectures to improve audio clarity for hearing-impaired individuals.   
 - Train models on the Microsoft Deep Noise Suppression dataset using MATLAB, PyTorch, and NumPy to preprocess, develop models, and evaluate performance.
    
@@ -21,7 +21,7 @@ If you’re ever interested in connecting on these topics, feel free to reach ou
 
 <br>
 
- **Age Prediction Mode (featured project)** 
+ **Age Prediction Model** 
 - Trained a machine learning model on the UCI Adult dataset to predict an individual’s age from demographic and economic features.
  
 **Tech Stack:** Python, scikit-learn, NumPy, Pandas
@@ -40,7 +40,7 @@ If you’re ever interested in connecting on these topics, feel free to reach ou
 **Tech Stack:** Python, scikit-learn,Pandas, Html, and CSS
   
 **Key Features:**  
-- Data preprocessing and feature engineering on Boston Building Violations and Student Addressess 
+- Data preprocessing and feature engineering on Boston Building Violations and Student Addresses 
 - Recorded areas with the most violations and how many students populated said area
  
 **Link to github repo:** <a href="https://github.com/irisRen04/cs506-off_campus_housing-Ren-James">Off Campus Housing Analysis</a>   
